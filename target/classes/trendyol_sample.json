@@ -1,0 +1,1655 @@
+{
+  "size": 50,
+  "totalPages": 1,
+  "page": 0,
+  "content": [
+    {
+      "shipmentAddress": {
+        "id": 266192,
+        "firstName": "sena",
+        "lastName": "sarıgül",
+        "address1": "söğütlü sok irem aprt No3 ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Avcılar",
+        "districtId": 46,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "sena sarıgül",
+        "fullAddress": "söğütlü sok irem aprt No3   Avcılar  İstanbul "
+      },
+      "orderNumber": "217466737",
+      "totalPrice": 37,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 266191,
+        "firstName": "sena",
+        "lastName": "sarıgül",
+        "company": "",
+        "address1": "söğütlü sok irem aprt No3 ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Avcılar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "sena sarıgül",
+        "fullAddress": "söğütlü sok irem aprt No3   Avcılar  İstanbul "
+      },
+      "customerFirstName": "sena",
+      "customerEmail": "pf+7x8p34bd@trendyol.com.test-google-a.com",
+      "customerId": 15406619,
+      "customerLastName": "sarıgül",
+      "id": 4474863,
+      "cargoTrackingNumber": 7260249806549,
+      "cargoTrackingLink": "https://selfservis.yurticikargo.com/reports/SSWDocumentDetail.aspx?DocId=0123456789",
+      "lines": [
+        {
+          "quantity": 1,
+          "productId": 49741136,
+          "salesCampaignId": 1194952,
+          "productSize": " XL",
+          "merchantSku": "asdfg",
+          "productName": "Erkek Beyaz Saat  mpQA253510810z MPQA253510810Z, XL",
+          "productCode": 14609306,
+          "merchantId": 2738,
+          "price": 37,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 182904,
+          "sku": "roseQA2893677727XY53510810kod5",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2893677727XY53510810kod5",
+          "orderLineItemStatusName": "ReadyToShip"
+        }
+      ],
+      "orderDate": 1542366604481,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1542720223017,
+          "status": "Shipped"
+        },
+        {
+          "createdDate": 1542355758609,
+          "status": "Created"
+        },
+        {
+          "createdDate": 1542720223013,
+          "status": "Delivered"
+        }
+      ],
+      "shipmentPackageStatus": "ReadyToShip"
+    },
+    {
+      "shipmentAddress": {
+        "id": 266572,
+        "firstName": "Çağrı",
+        "lastName": "Gürkan",
+        "address1": "DSM Grup Danışmanlık İletişim ve Satış Ticaret A.Ş. Büyükdere Cad. Noramin İş Merkezi No: 237 Kat:B- 1 34398 Maslak / İstanbul",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Sarıyer",
+        "districtId": 57,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "Çağrı Gürkan",
+        "fullAddress": "DSM Grup Danışmanlık İletişim ve Satış Ticaret A.Ş. Büyükdere Cad. Noramin İş Merkezi No: 237 Kat:B- 1 34398 Maslak / İstanbul  Sarıyer  İstanbul "
+      },
+      "orderNumber": "217466741",
+      "totalPrice": 37,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 266571,
+        "firstName": "Çağrı",
+        "lastName": "Gürkan",
+        "company": "",
+        "address1": "DSM Grup Danışmanlık İletişim ve Satış Ticaret A.Ş. Büyükdere Cad. Noramin İş Merkezi No: 237 Kat:B- 1 34398 Maslak / İstanbul",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Sarıyer",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "Çağrı Gürkan",
+        "fullAddress": "DSM Grup Danışmanlık İletişim ve Satış Ticaret A.Ş. Büyükdere Cad. Noramin İş Merkezi No: 237 Kat:B- 1 34398 Maslak / İstanbul  Sarıyer  İstanbul "
+      },
+      "customerFirstName": "Çağrı",
+      "customerEmail": "pf+7vp8qlp7@trendyol.com.test-google-a.com",
+      "customerId": 15966920,
+      "customerLastName": "Gürkan",
+      "id": 4475005,
+      "cargoTrackingNumber": 7260249807980,
+      "cargoTrackingLink": "https://selfservis.yurticikargo.com/reports/SSWDocumentDetail.aspx?DocId=0123456789",
+      "lines": [
+        {
+          "quantity": 1,
+          "productId": 49741136,
+          "salesCampaignId": 1194952,
+          "productSize": " XL",
+          "merchantSku": "asdfg",
+          "productName": "Erkek Beyaz Saat  mpQA253510810z MPQA253510810Z, XL",
+          "productCode": 14609306,
+          "merchantId": 2738,
+          "price": 37,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 183180,
+          "sku": "roseQA2893677727XY53510810kod5",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2893677727XY53510810kod5",
+          "orderLineItemStatusName": "Delivered"
+        }
+      ],
+      "orderDate": 1542370496530,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1542359670231,
+          "status": "Delivered"
+        },
+        {
+          "createdDate": 1542359670236,
+          "status": "Shipped"
+        },
+        {
+          "createdDate": 1542359652299,
+          "status": "Created"
+        }
+      ],
+      "shipmentPackageStatus": "Delivered"
+    },
+    {
+      "shipmentAddress": {
+        "id": 267514,
+        "firstName": "Çağrı",
+        "lastName": "Gürkan",
+        "address1": "DSM Grup Danışmanlık İletişim ve Satış Ticaret A.Ş. Büyükdere Cad. Noramin İş Merkezi No: 237 Kat:B- 1 34398 Maslak / İstanbul",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Sarıyer",
+        "districtId": 57,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "Çağrı Gürkan",
+        "fullAddress": "DSM Grup Danışmanlık İletişim ve Satış Ticaret A.Ş. Büyükdere Cad. Noramin İş Merkezi No: 237 Kat:B- 1 34398 Maslak / İstanbul  Sarıyer  İstanbul "
+      },
+      "orderNumber": "217466800",
+      "totalPrice": 74,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 267513,
+        "firstName": "Çağrı",
+        "lastName": "Gürkan",
+        "company": "",
+        "address1": "DSM Grup Danışmanlık İletişim ve Satış Ticaret A.Ş. Büyükdere Cad. Noramin İş Merkezi No: 237 Kat:B- 1 34398 Maslak / İstanbul",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Sarıyer",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "Çağrı Gürkan",
+        "fullAddress": "DSM Grup Danışmanlık İletişim ve Satış Ticaret A.Ş. Büyükdere Cad. Noramin İş Merkezi No: 237 Kat:B- 1 34398 Maslak / İstanbul  Sarıyer  İstanbul "
+      },
+      "customerFirstName": "Çağrı",
+      "customerEmail": "pf+dw65jbj7@trendyol.com.test-google-a.com",
+      "customerId": 15966920,
+      "customerLastName": "Gürkan",
+      "id": 4475321,
+      "cargoTrackingNumber": 7260249850238,
+      "cargoTrackingLink": "https://selfservis.yurticikargo.com/reports/SSWDocumentDetail.aspx?DocId=0123456789",
+      "lines": [
+        {
+          "quantity": 2,
+          "productId": 49741136,
+          "salesCampaignId": 1194952,
+          "productSize": " XL",
+          "merchantSku": "asdfg",
+          "productName": "Erkek Beyaz Saat  mpQA253510810z MPQA253510810Z, XL",
+          "productCode": 14609306,
+          "merchantId": 2738,
+          "price": 37,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 183832,
+          "sku": "roseQA2893677727XY53510810kod5",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2893677727XY53510810kod5",
+          "orderLineItemStatusName": "Delivered"
+        }
+      ],
+      "orderDate": 1542389253335,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1542378931311,
+          "status": "Delivered"
+        },
+        {
+          "createdDate": 1542378931319,
+          "status": "Shipped"
+        },
+        {
+          "createdDate": 1542378459433,
+          "status": "Created"
+        }
+      ],
+      "shipmentPackageStatus": "Delivered"
+    },
+    {
+      "shipmentAddress": {
+        "id": 277147,
+        "firstName": "sena",
+        "lastName": "sarıgül",
+        "address1": "söğütlü sok irem aprt No3 ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Avcılar",
+        "districtId": 46,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "sena sarıgül",
+        "fullAddress": "söğütlü sok irem aprt No3   Avcılar  İstanbul "
+      },
+      "orderNumber": "217467414",
+      "totalPrice": 37,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 277145,
+        "firstName": "sena",
+        "lastName": "sarıgül",
+        "company": "",
+        "address1": "söğütlü sok irem aprt No3 ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Avcılar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "sena sarıgül",
+        "fullAddress": "söğütlü sok irem aprt No3   Avcılar  İstanbul "
+      },
+      "customerFirstName": "sena",
+      "customerEmail": "pf+db9n2nm7@trendyol.com.test-google-a.com",
+      "customerId": 15406619,
+      "customerLastName": "sarıgül",
+      "id": 4477518,
+      "cargoTrackingNumber": 7260249870274,
+      "cargoTrackingLink": "https://selfservis.yurticikargo.com/reports/SSWDocumentDetail.aspx?DocId=0123456789",
+      "lines": [
+        {
+          "quantity": 1,
+          "productId": 49741136,
+          "salesCampaignId": 1194952,
+          "productSize": " XL",
+          "merchantSku": "asdfg",
+          "productName": "Erkek Beyaz Saat  mpQA253510810z MPQA253510810Z, XL",
+          "productCode": 14609306,
+          "merchantId": 2738,
+          "price": 37,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 190581,
+          "sku": "roseQA2893677727XY53510810kod5",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2893677727XY53510810kod5",
+          "orderLineItemStatusName": "ReturnAccepted"
+        }
+      ],
+      "orderDate": 1542626804683,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1542616455291,
+          "status": "Shipped"
+        },
+        {
+          "createdDate": 1542615960584,
+          "status": "Created"
+        },
+        {
+          "createdDate": 1542616455286,
+          "status": "Delivered"
+        }
+      ],
+      "shipmentPackageStatus": "ReturnAccepted"
+    },
+    {
+      "shipmentAddress": {
+        "id": 277246,
+        "firstName": "sena",
+        "lastName": "sarıgül",
+        "address1": "söğütlü sok irem aprt No3 ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Avcılar",
+        "districtId": 46,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "sena sarıgül",
+        "fullAddress": "söğütlü sok irem aprt No3   Avcılar  İstanbul "
+      },
+      "orderNumber": "217467419",
+      "totalPrice": 37,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 277244,
+        "firstName": "sena",
+        "lastName": "sarıgül",
+        "company": "",
+        "address1": "söğütlü sok irem aprt No3 ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Avcılar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "sena sarıgül",
+        "fullAddress": "söğütlü sok irem aprt No3   Avcılar  İstanbul "
+      },
+      "customerFirstName": "sena",
+      "customerEmail": "pf+768b9w9d@trendyol.com.test-google-a.com",
+      "customerId": 15406619,
+      "customerLastName": "sarıgül",
+      "id": 4477557,
+      "cargoTrackingNumber": 7260249870670,
+      "cargoTrackingLink": "https://selfservis.yurticikargo.com/reports/SSWDocumentDetail.aspx?DocId=0123456789",
+      "lines": [
+        {
+          "quantity": 1,
+          "productId": 49741136,
+          "salesCampaignId": 1194952,
+          "productSize": " XL",
+          "merchantSku": "asdfg",
+          "productName": "Erkek Beyaz Saat  mpQA253510810z MPQA253510810Z, XL",
+          "productCode": 14609306,
+          "merchantId": 2738,
+          "price": 37,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 190651,
+          "sku": "roseQA2893677727XY53510810kod5",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2893677727XY53510810kod5",
+          "orderLineItemStatusName": "ReadyToShip"
+        }
+      ],
+      "orderDate": 1542628829347,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1542618037127,
+          "status": "Delivered"
+        },
+        {
+          "createdDate": 1542618027434,
+          "status": "Created"
+        },
+        {
+          "createdDate": 1542618037185,
+          "status": "Shipped"
+        }
+      ],
+      "shipmentPackageStatus": "ReadyToShip"
+    },
+    {
+      "shipmentAddress": {
+        "id": 277628,
+        "firstName": "sena",
+        "lastName": "sarıgül",
+        "address1": "söğütlü sok irem aprt No3 ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Avcılar",
+        "districtId": 46,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "sena sarıgül",
+        "fullAddress": "söğütlü sok irem aprt No3   Avcılar  İstanbul "
+      },
+      "orderNumber": "217467450",
+      "totalPrice": 74,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 277627,
+        "firstName": "sena",
+        "lastName": "sarıgül",
+        "company": "",
+        "address1": "söğütlü sok irem aprt No3 ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Avcılar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "sena sarıgül",
+        "fullAddress": "söğütlü sok irem aprt No3   Avcılar  İstanbul "
+      },
+      "customerFirstName": "sena",
+      "customerEmail": "pf+dw652j67@trendyol.com.test-google-a.com",
+      "customerId": 15406619,
+      "customerLastName": "sarıgül",
+      "id": 4477669,
+      "cargoTrackingNumber": 7260249872032,
+      "cargoTrackingLink": "https://selfservis.yurticikargo.com/reports/SSWDocumentDetail.aspx?DocId=0123456789",
+      "lines": [
+        {
+          "quantity": 2,
+          "productId": 49741136,
+          "salesCampaignId": 1194952,
+          "productSize": " XL",
+          "merchantSku": "asdfg",
+          "productName": "Erkek Beyaz Saat  mpQA253510810z MPQA253510810Z, XL",
+          "productCode": 14609306,
+          "merchantId": 2738,
+          "price": 37,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 190912,
+          "sku": "roseQA2893677727XY53510810kod5",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2893677727XY53510810kod5",
+          "orderLineItemStatusName": "ReturnAccepted"
+        }
+      ],
+      "orderDate": 1542637157469,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1542626310187,
+          "status": "Created"
+        },
+        {
+          "createdDate": 1542720915129,
+          "status": "Delivered"
+        },
+        {
+          "createdDate": 1542720915209,
+          "status": "Shipped"
+        }
+      ],
+      "shipmentPackageStatus": "ReturnAccepted"
+    },
+    {
+      "shipmentAddress": {
+        "id": 279863,
+        "firstName": "secil",
+        "lastName": "aydogan",
+        "address1": "drgfhgfjghjhkhjljkl ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Bağcılar",
+        "districtId": 47,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "secil aydogan",
+        "fullAddress": "drgfhgfjghjhkhjljkl   Bağcılar  İstanbul "
+      },
+      "orderNumber": "217467634",
+      "totalPrice": 37,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 279861,
+        "firstName": "secil",
+        "lastName": "aydogan",
+        "company": "",
+        "address1": "drgfhgfjghjhkhjljkl ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Bağcılar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "secil aydogan",
+        "fullAddress": "drgfhgfjghjhkhjljkl   Bağcılar  İstanbul "
+      },
+      "customerFirstName": "secil",
+      "customerEmail": "pf+g94mzx5d@trendyol.com.test-google-a.com",
+      "customerId": 12784522,
+      "customerLastName": "aydogan",
+      "id": 4478401,
+      "cargoTrackingNumber": 7260249880587,
+      "cargoTrackingLink": "https://selfservis.yurticikargo.com/reports/SSWDocumentDetail.aspx?DocId=0123456789",
+      "lines": [
+        {
+          "quantity": 1,
+          "productId": 49741136,
+          "salesCampaignId": 1194952,
+          "productSize": " XL",
+          "merchantSku": "asdfg",
+          "productName": "Erkek Beyaz Saat  mpQA253510810z MPQA253510810Z, XL",
+          "productCode": 14609306,
+          "merchantId": 2738,
+          "price": 37,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 192440,
+          "sku": "roseQA2893677727XY53510810kod5",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2893677727XY53510810kod5",
+          "orderLineItemStatusName": "ReturnAccepted"
+        }
+      ],
+      "orderDate": 1542706709844,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1542707521414,
+          "status": "Shipped"
+        },
+        {
+          "createdDate": 1542707521410,
+          "status": "Delivered"
+        },
+        {
+          "createdDate": 1542697709226,
+          "status": "Created"
+        }
+      ],
+      "shipmentPackageStatus": "ReturnAccepted"
+    },
+    {
+      "shipmentAddress": {
+        "id": 280919,
+        "firstName": "sena",
+        "lastName": "sarıgül",
+        "address1": "söğütlü sok irem aprt No3 ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Avcılar",
+        "districtId": 46,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "sena sarıgül",
+        "fullAddress": "söğütlü sok irem aprt No3   Avcılar  İstanbul "
+      },
+      "orderNumber": "217467877",
+      "totalPrice": 111,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 280918,
+        "firstName": "sena",
+        "lastName": "sarıgül",
+        "company": "",
+        "address1": "söğütlü sok irem aprt No3 ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Avcılar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "sena sarıgül",
+        "fullAddress": "söğütlü sok irem aprt No3   Avcılar  İstanbul "
+      },
+      "customerFirstName": "sena",
+      "customerEmail": "pf+dyr6eapg@trendyol.com.test-google-a.com",
+      "customerId": 15406619,
+      "customerLastName": "sarıgül",
+      "id": 4478604,
+      "cargoTrackingNumber": 7260249884790,
+      "cargoTrackingLink": "https://selfservis.yurticikargo.com/reports/SSWDocumentDetail.aspx?DocId=0123456789",
+      "lines": [
+        {
+          "quantity": 3,
+          "productId": 49741137,
+          "salesCampaignId": 1194952,
+          "productSize": " L",
+          "merchantSku": "asdfg",
+          "productName": "Unisex Beyaz Şapka  mpQA237897358z MPQA237897358Z, L",
+          "productCode": 14609295,
+          "merchantId": 2738,
+          "price": 37,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 193097,
+          "sku": "roseQA2543783876XY37897358kod4",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2543783876XY37897358kod4",
+          "orderLineItemStatusName": "Delivered"
+        }
+      ],
+      "orderDate": 1542731915062,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1542721268402,
+          "status": "Delivered"
+        },
+        {
+          "createdDate": 1542721268411,
+          "status": "Shipped"
+        },
+        {
+          "createdDate": 1542721117318,
+          "status": "Created"
+        }
+      ],
+      "shipmentPackageStatus": "Delivered"
+    },
+    {
+      "shipmentAddress": {
+        "id": 280921,
+        "firstName": "sena",
+        "lastName": "sarıgül",
+        "address1": "söğütlü sok irem aprt No3 ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Avcılar",
+        "districtId": 46,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "sena sarıgül",
+        "fullAddress": "söğütlü sok irem aprt No3   Avcılar  İstanbul "
+      },
+      "orderNumber": "217467878",
+      "totalPrice": 37,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 280920,
+        "firstName": "sena",
+        "lastName": "sarıgül",
+        "company": "",
+        "address1": "söğütlü sok irem aprt No3 ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Avcılar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "sena sarıgül",
+        "fullAddress": "söğütlü sok irem aprt No3   Avcılar  İstanbul "
+      },
+      "customerFirstName": "sena",
+      "customerEmail": "pf+7vp8a2p7@trendyol.com.test-google-a.com",
+      "customerId": 15406619,
+      "customerLastName": "sarıgül",
+      "id": 4478605,
+      "cargoTrackingNumber": 7260249884806,
+      "cargoTrackingLink": "https://selfservis.yurticikargo.com/reports/SSWDocumentDetail.aspx?DocId=0123456789",
+      "lines": [
+        {
+          "quantity": 1,
+          "productId": 49741137,
+          "salesCampaignId": 1194952,
+          "productSize": " L",
+          "merchantSku": "asdfg",
+          "productName": "Unisex Beyaz Şapka  mpQA237897358z MPQA237897358Z, L",
+          "productCode": 14609295,
+          "merchantId": 2738,
+          "price": 37,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 193098,
+          "sku": "roseQA2543783876XY37897358kod4",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2543783876XY37897358kod4",
+          "orderLineItemStatusName": "Delivered"
+        }
+      ],
+      "orderDate": 1542732210008,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1542721413088,
+          "status": "Created"
+        },
+        {
+          "createdDate": 1542721600762,
+          "status": "Delivered"
+        },
+        {
+          "createdDate": 1542721600806,
+          "status": "Shipped"
+        }
+      ],
+      "shipmentPackageStatus": "Delivered"
+    },
+    {
+      "shipmentAddress": {
+        "id": 280935,
+        "firstName": "sena",
+        "lastName": "sarıgül",
+        "address1": "söğütlü sok irem aprt No3 ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Avcılar",
+        "districtId": 46,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "sena sarıgül",
+        "fullAddress": "söğütlü sok irem aprt No3   Avcılar  İstanbul "
+      },
+      "orderNumber": "217467885",
+      "totalPrice": 37,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 280934,
+        "firstName": "sena",
+        "lastName": "sarıgül",
+        "company": "",
+        "address1": "söğütlü sok irem aprt No3 ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Avcılar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "sena sarıgül",
+        "fullAddress": "söğütlü sok irem aprt No3   Avcılar  İstanbul "
+      },
+      "customerFirstName": "sena",
+      "customerEmail": "pf+gamjlb3g@trendyol.com.test-google-a.com",
+      "customerId": 15406619,
+      "customerLastName": "sarıgül",
+      "id": 4478606,
+      "cargoTrackingNumber": 7260249884813,
+      "cargoTrackingLink": "https://selfservis.yurticikargo.com/reports/SSWDocumentDetail.aspx?DocId=0123456789",
+      "lines": [
+        {
+          "quantity": 1,
+          "productId": 49741137,
+          "salesCampaignId": 1194952,
+          "productSize": " L",
+          "merchantSku": "asdfg",
+          "productName": "Unisex Beyaz Şapka  mpQA237897358z MPQA237897358Z, L",
+          "productCode": 14609295,
+          "merchantId": 2738,
+          "price": 37,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 193105,
+          "sku": "roseQA2543783876XY37897358kod4",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2543783876XY37897358kod4",
+          "orderLineItemStatusName": "Delivered"
+        }
+      ],
+      "orderDate": 1542733291056,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1542732228078,
+          "status": "Delivered"
+        },
+        {
+          "createdDate": 1542722496757,
+          "status": "Created"
+        },
+        {
+          "createdDate": 1542732228106,
+          "status": "Shipped"
+        }
+      ],
+      "shipmentPackageStatus": "Delivered"
+    },
+    {
+      "shipmentAddress": {
+        "id": 280937,
+        "firstName": "sena",
+        "lastName": "sarıgül",
+        "address1": "söğütlü sok irem aprt No3 ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Avcılar",
+        "districtId": 46,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "sena sarıgül",
+        "fullAddress": "söğütlü sok irem aprt No3   Avcılar  İstanbul "
+      },
+      "orderNumber": "217467886",
+      "totalPrice": 74,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 280936,
+        "firstName": "sena",
+        "lastName": "sarıgül",
+        "company": "",
+        "address1": "söğütlü sok irem aprt No3 ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Avcılar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "sena sarıgül",
+        "fullAddress": "söğütlü sok irem aprt No3   Avcılar  İstanbul "
+      },
+      "customerFirstName": "sena",
+      "customerEmail": "pf+d44rvn9d@trendyol.com.test-google-a.com",
+      "customerId": 15406619,
+      "customerLastName": "sarıgül",
+      "id": 4481216,
+      "cargoTrackingNumber": 7260249921549,
+      "cargoTrackingLink": "https://selfservis.yurticikargo.com/reports/SSWDocumentDetail.aspx?DocId=0123456789",
+      "lines": [
+        {
+          "quantity": 2,
+          "productId": 49741137,
+          "salesCampaignId": 1194952,
+          "productSize": " L",
+          "merchantSku": "asdfg",
+          "productName": "Unisex Beyaz Şapka  mpQA237897358z MPQA237897358Z, L",
+          "productCode": 14609295,
+          "merchantId": 2738,
+          "price": 37,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 193106,
+          "sku": "roseQA2543783876XY37897358kod4",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2543783876XY37897358kod4",
+          "orderLineItemStatusName": "ReturnAccepted"
+        }
+      ],
+      "orderDate": 1542733329637,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1543989913680,
+          "status": "Shipped"
+        },
+        {
+          "createdDate": 1543989913674,
+          "status": "Delivered"
+        },
+        {
+          "createdDate": 1543300976831,
+          "status": "Created"
+        }
+      ],
+      "shipmentPackageStatus": "ReturnAccepted"
+    },
+    {
+      "shipmentAddress": {
+        "id": 329221,
+        "firstName": "sena",
+        "lastName": "sarıgül",
+        "address1": "söğütlü sok irem aprt No3 ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Avcılar",
+        "districtId": 46,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "sena sarıgül",
+        "fullAddress": "söğütlü sok irem aprt No3   Avcılar  İstanbul "
+      },
+      "orderNumber": "218571242",
+      "totalPrice": 37,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 329220,
+        "firstName": "sena",
+        "lastName": "sarıgül",
+        "company": "",
+        "address1": "söğütlü sok irem aprt No3 ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Avcılar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "sena sarıgül",
+        "fullAddress": "söğütlü sok irem aprt No3   Avcılar  İstanbul "
+      },
+      "customerFirstName": "sena",
+      "customerEmail": "pf+7zeerk27@trendyol.com.test-google-a.com",
+      "customerId": 15406619,
+      "customerLastName": "sarıgül",
+      "id": 4493522,
+      "cargoTrackingNumber": 7260250051884,
+      "cargoTrackingLink": "https://selfservis.yurticikargo.com/reports/SSWDocumentDetail.aspx?DocId=0123456789",
+      "lines": [
+        {
+          "quantity": 1,
+          "productId": 49741137,
+          "salesCampaignId": 1194952,
+          "productSize": " L",
+          "merchantSku": "asdfg",
+          "productName": "Unisex Beyaz Şapka  mpQA237897358z MPQA237897358Z, L",
+          "productCode": 14609295,
+          "merchantId": 2738,
+          "price": 37,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 226794,
+          "sku": "roseQA2543783876XY37897358kod4",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2543783876XY37897358kod4",
+          "orderLineItemStatusName": "ReadyToShip"
+        }
+      ],
+      "orderDate": 1544006097971,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1543995338476,
+          "status": "Shipped"
+        },
+        {
+          "createdDate": 1543995338473,
+          "status": "Delivered"
+        },
+        {
+          "createdDate": 1543995311295,
+          "status": "Created"
+        }
+      ],
+      "shipmentPackageStatus": "ReadyToShip"
+    },
+    {
+      "shipmentAddress": {
+        "id": 349827,
+        "firstName": "Kaan",
+        "lastName": "Sariveli",
+        "address1": "Address bilgisi ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Adalar",
+        "districtId": 33,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "Kaan Sariveli",
+        "fullAddress": "Address bilgisi   Adalar  İstanbul "
+      },
+      "orderNumber": "218572724",
+      "totalPrice": 37,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 349826,
+        "firstName": "Kaan",
+        "lastName": "Sariveli",
+        "company": "",
+        "address1": "Address bilgisi ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Adalar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "Kaan Sariveli",
+        "fullAddress": "Address bilgisi   Adalar  İstanbul "
+      },
+      "customerFirstName": "Kaan",
+      "customerEmail": "pf+d44448rd@trendyol.com.test-google-a.com",
+      "customerId": 17270024,
+      "customerLastName": "Sariveli",
+      "id": 4500516,
+      "cargoTrackingNumber": 7260250132637,
+      "cargoTrackingLink": "https://selfservis.yurticikargo.com/reports/SSWDocumentDetail.aspx?DocId=0123456789",
+      "lines": [
+        {
+          "quantity": 1,
+          "productId": 49741137,
+          "salesCampaignId": 1194952,
+          "productSize": " L",
+          "merchantSku": "asdfg",
+          "productName": "Unisex Beyaz Şapka  mpQA237897358z MPQA237897358Z, L",
+          "productCode": 14609295,
+          "merchantId": 2738,
+          "price": 37,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 241168,
+          "sku": "roseQA2543783876XY37897358kod4",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2543783876XY37897358kod4",
+          "orderLineItemStatusName": "ReturnDelivered"
+        }
+      ],
+      "orderDate": 1544441770491,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1544430973458,
+          "status": "Created"
+        },
+        {
+          "createdDate": 1544433112138,
+          "status": "Delivered"
+        },
+        {
+          "createdDate": 1544433112143,
+          "status": "Shipped"
+        }
+      ],
+      "shipmentPackageStatus": "ReturnDelivered"
+    },
+    {
+      "shipmentAddress": {
+        "id": 449023,
+        "firstName": "Kaan",
+        "lastName": "Sariveli",
+        "address1": "Address bilgisi ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Adalar",
+        "districtId": 33,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "Kaan Sariveli",
+        "fullAddress": "Address bilgisi   Adalar  İstanbul "
+      },
+      "orderNumber": "218585790",
+      "totalPrice": 0,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 449022,
+        "firstName": "Kaan",
+        "lastName": "Sariveli",
+        "company": "",
+        "address1": "Address bilgisi ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Adalar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "Kaan Sariveli",
+        "fullAddress": "Address bilgisi   Adalar  İstanbul "
+      },
+      "customerFirstName": "Kaan",
+      "customerEmail": "pf+deynpvlg@trendyol.com.test-google-a.com",
+      "customerId": 17270024,
+      "customerLastName": "Sariveli",
+      "id": 4529760,
+      "cargoTrackingNumber": 7260250515744,
+      "lines": [
+        {
+          "quantity": 1,
+          "productId": 49741137,
+          "salesCampaignId": 1194952,
+          "productSize": " L",
+          "merchantSku": "asdfg",
+          "productName": "Unisex Beyaz Şapka  mpQA237897358z MPQA237897358Z, L",
+          "productCode": 14609295,
+          "merchantId": 2738,
+          "price": 40,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 308155,
+          "sku": "roseQA2543783876XY37897358kod4",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2543783876XY37897358kod4",
+          "orderLineItemStatusName": "Cancelled"
+        }
+      ],
+      "orderDate": 1546529663660,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1546518902532,
+          "status": "Cancelled"
+        },
+        {
+          "createdDate": 1546518847024,
+          "status": "Created"
+        }
+      ],
+      "shipmentPackageStatus": "Cancelled"
+    },
+    {
+      "shipmentAddress": {
+        "id": 449025,
+        "firstName": "Kaan",
+        "lastName": "Sariveli",
+        "address1": "Address bilgisi ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Adalar",
+        "districtId": 33,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "Kaan Sariveli",
+        "fullAddress": "Address bilgisi   Adalar  İstanbul "
+      },
+      "orderNumber": "218585791",
+      "totalPrice": 40,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 449024,
+        "firstName": "Kaan",
+        "lastName": "Sariveli",
+        "company": "",
+        "address1": "Address bilgisi ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Adalar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "Kaan Sariveli",
+        "fullAddress": "Address bilgisi   Adalar  İstanbul "
+      },
+      "customerFirstName": "Kaan",
+      "customerEmail": "pf+7q2l8kx7@trendyol.com.test-google-a.com",
+      "customerId": 17270024,
+      "customerLastName": "Sariveli",
+      "id": 4529761,
+      "cargoTrackingNumber": 7260250515751,
+      "cargoTrackingLink": "https://selfservis.yurticikargo.com/reports/SSWDocumentDetail.aspx?DocId=0123456789",
+      "lines": [
+        {
+          "quantity": 1,
+          "productId": 49741137,
+          "salesCampaignId": 1194952,
+          "productSize": " L",
+          "merchantSku": "asdfg",
+          "productName": "Unisex Beyaz Şapka  mpQA237897358z MPQA237897358Z, L",
+          "productCode": 14609295,
+          "merchantId": 2738,
+          "price": 40,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 308156,
+          "sku": "roseQA2543783876XY37897358kod4",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2543783876XY37897358kod4",
+          "orderLineItemStatusName": "ReturnAccepted"
+        }
+      ],
+      "orderDate": 1546529906481,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1546521200812,
+          "status": "Delivered"
+        },
+        {
+          "createdDate": 1546521200824,
+          "status": "Shipped"
+        },
+        {
+          "createdDate": 1546519126420,
+          "status": "Picking"
+        },
+        {
+          "createdDate": 1546519089751,
+          "status": "Created"
+        }
+      ],
+      "shipmentPackageStatus": "ReturnAccepted"
+    },
+    {
+      "shipmentAddress": {
+        "id": 449524,
+        "firstName": "Kaan",
+        "lastName": "Sariveli",
+        "address1": "Address bilgisi ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Adalar",
+        "districtId": 33,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "Kaan Sariveli",
+        "fullAddress": "Address bilgisi   Adalar  İstanbul "
+      },
+      "orderNumber": "218585851",
+      "totalPrice": 0,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 449523,
+        "firstName": "Kaan",
+        "lastName": "Sariveli",
+        "company": "",
+        "address1": "Address bilgisi ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Adalar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "Kaan Sariveli",
+        "fullAddress": "Address bilgisi   Adalar  İstanbul "
+      },
+      "customerFirstName": "Kaan",
+      "customerEmail": "pf+7x8b3jmd@trendyol.com.test-google-a.com",
+      "customerId": 17270024,
+      "customerLastName": "Sariveli",
+      "id": 4529887,
+      "cargoTrackingNumber": 7290250517370,
+      "lines": [
+        {
+          "quantity": 1,
+          "productId": 49741136,
+          "salesCampaignId": 1194952,
+          "productSize": " XL",
+          "merchantSku": "asdfg",
+          "productName": "Erkek Beyaz Saat  mpQA253510810z MPQA253510810Z, XL",
+          "productCode": 14609306,
+          "merchantId": 2738,
+          "price": 6,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 308517,
+          "sku": "roseQA2893677727XY53510810kod5",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2893677727XY53510810kod5",
+          "orderLineItemStatusName": "Cancelled"
+        }
+      ],
+      "orderDate": 1546535881610,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1546525064681,
+          "status": "Created"
+        },
+        {
+          "createdDate": 1546525092947,
+          "status": "UnSupplied"
+        }
+      ],
+      "shipmentPackageStatus": "Cancelled"
+    },
+    {
+      "shipmentAddress": {
+        "id": 450983,
+        "firstName": "Kaan",
+        "lastName": "Sariveli",
+        "address1": "Address bilgisi ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Adalar",
+        "districtId": 33,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "Kaan Sariveli",
+        "fullAddress": "Address bilgisi   Adalar  İstanbul "
+      },
+      "orderNumber": "218586113",
+      "totalPrice": 0,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 450982,
+        "firstName": "Kaan",
+        "lastName": "Sariveli",
+        "company": "",
+        "address1": "Address bilgisi ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Adalar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "Kaan Sariveli",
+        "fullAddress": "Address bilgisi   Adalar  İstanbul "
+      },
+      "customerFirstName": "Kaan",
+      "customerEmail": "pf+gnm5vrb7@trendyol.com.test-google-a.com",
+      "customerId": 17270024,
+      "customerLastName": "Sariveli",
+      "id": 4530244,
+      "cargoTrackingNumber": 7290250523159,
+      "lines": [
+        {
+          "quantity": 1,
+          "productId": 49741136,
+          "salesCampaignId": 1194952,
+          "productSize": " XL",
+          "merchantSku": "asdfg",
+          "productName": "Erkek Beyaz Saat  mpQA253510810z MPQA253510810Z, XL",
+          "productCode": 14609306,
+          "merchantId": 2738,
+          "price": 6,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 309449,
+          "sku": "roseQA2893677727XY53510810kod5",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2893677727XY53510810kod5",
+          "orderLineItemStatusName": "Cancelled"
+        }
+      ],
+      "orderDate": 1546597613904,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1546586878215,
+          "status": "UnSupplied"
+        },
+        {
+          "createdDate": 1546586797065,
+          "status": "Created"
+        }
+      ],
+      "shipmentPackageStatus": "Cancelled"
+    },
+    {
+      "shipmentAddress": {
+        "id": 450985,
+        "firstName": "Kaan",
+        "lastName": "Sariveli",
+        "address1": "Address bilgisi ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Adalar",
+        "districtId": 33,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "Kaan Sariveli",
+        "fullAddress": "Address bilgisi   Adalar  İstanbul "
+      },
+      "orderNumber": "218586114",
+      "totalPrice": 0,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 450984,
+        "firstName": "Kaan",
+        "lastName": "Sariveli",
+        "company": "",
+        "address1": "Address bilgisi ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Adalar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "Kaan Sariveli",
+        "fullAddress": "Address bilgisi   Adalar  İstanbul "
+      },
+      "customerFirstName": "Kaan",
+      "customerEmail": "pf+dw6bjoq7@trendyol.com.test-google-a.com",
+      "customerId": 17270024,
+      "customerLastName": "Sariveli",
+      "id": 4530245,
+      "cargoTrackingNumber": 7290250523166,
+      "lines": [
+        {
+          "quantity": 1,
+          "productId": 49741137,
+          "salesCampaignId": 1194952,
+          "productSize": " L",
+          "merchantSku": "asdfg",
+          "productName": "Unisex Beyaz Şapka  mpQA237897358z MPQA237897358Z, L",
+          "productCode": 14609295,
+          "merchantId": 2738,
+          "price": 40,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 309450,
+          "sku": "roseQA2543783876XY37897358kod4",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2543783876XY37897358kod4",
+          "orderLineItemStatusName": "Cancelled"
+        }
+      ],
+      "orderDate": 1546598477757,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1546587661956,
+          "status": "Created"
+        },
+        {
+          "createdDate": 1546587705896,
+          "status": "UnSupplied"
+        }
+      ],
+      "shipmentPackageStatus": "Cancelled"
+    },
+    {
+      "shipmentAddress": {
+        "id": 451043,
+        "firstName": "Kaan",
+        "lastName": "Sariveli",
+        "address1": "Address bilgisi ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Adalar",
+        "districtId": 33,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "Kaan Sariveli",
+        "fullAddress": "Address bilgisi   Adalar  İstanbul "
+      },
+      "orderNumber": "218586145",
+      "totalPrice": 0,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 451042,
+        "firstName": "Kaan",
+        "lastName": "Sariveli",
+        "company": "",
+        "address1": "Address bilgisi ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Adalar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "Kaan Sariveli",
+        "fullAddress": "Address bilgisi   Adalar  İstanbul "
+      },
+      "customerFirstName": "Kaan",
+      "customerEmail": "pf+g84zo6a7@trendyol.com.test-google-a.com",
+      "customerId": 17270024,
+      "customerLastName": "Sariveli",
+      "id": 4530247,
+      "cargoTrackingNumber": 7290250523463,
+      "lines": [
+        {
+          "quantity": 1,
+          "productId": 49741137,
+          "salesCampaignId": 1194952,
+          "productSize": " L",
+          "merchantSku": "asdfg",
+          "productName": "Unisex Beyaz Şapka  mpQA237897358z MPQA237897358Z, L",
+          "productCode": 14609295,
+          "merchantId": 2738,
+          "price": 40,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 309479,
+          "sku": "roseQA2543783876XY37897358kod4",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2543783876XY37897358kod4",
+          "orderLineItemStatusName": "Cancelled"
+        }
+      ],
+      "orderDate": 1546598869249,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1546588084077,
+          "status": "UnSupplied"
+        },
+        {
+          "createdDate": 1546588051715,
+          "status": "Created"
+        }
+      ],
+      "shipmentPackageStatus": "Cancelled"
+    },
+    {
+      "shipmentAddress": {
+        "id": 451319,
+        "firstName": "Kaan",
+        "lastName": "Sariveli",
+        "address1": "Address bilgisi ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Adalar",
+        "districtId": 33,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "Kaan Sariveli",
+        "fullAddress": "Address bilgisi   Adalar  İstanbul "
+      },
+      "orderNumber": "218586148",
+      "totalPrice": 6,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 451318,
+        "firstName": "Kaan",
+        "lastName": "Sariveli",
+        "company": "",
+        "address1": "Address bilgisi ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Adalar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "Kaan Sariveli",
+        "fullAddress": "Address bilgisi   Adalar  İstanbul "
+      },
+      "customerFirstName": "Kaan",
+      "customerEmail": "pf+7vpbq4q7@trendyol.com.test-google-a.com",
+      "customerId": 17270024,
+      "customerLastName": "Sariveli",
+      "id": 4530377,
+      "cargoTrackingNumber": 7290250524798,
+      "lines": [
+        {
+          "quantity": 1,
+          "productId": 49741136,
+          "salesCampaignId": 1194952,
+          "productSize": " XL",
+          "merchantSku": "asdfg",
+          "productName": "Erkek Beyaz Saat  mpQA253510810z MPQA253510810Z, XL",
+          "productCode": 14609306,
+          "merchantId": 2738,
+          "price": 6,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 309679,
+          "sku": "roseQA2893677727XY53510810kod5",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2893677727XY53510810kod5",
+          "orderLineItemStatusName": "Cancelled"
+        },
+        {
+          "quantity": 1,
+          "productId": 49741137,
+          "salesCampaignId": 1194952,
+          "productSize": " L",
+          "merchantSku": "asdfg",
+          "productName": "Unisex Beyaz Şapka  mpQA237897358z MPQA237897358Z, L",
+          "productCode": 14609295,
+          "merchantId": 2738,
+          "price": 40,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 309680,
+          "sku": "roseQA2543783876XY37897358kod4",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2543783876XY37897358kod4",
+          "orderLineItemStatusName": "Cancelled"
+        }
+      ],
+      "orderDate": 1546599503328,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1546588976055,
+          "status": "Cancelled"
+        },
+        {
+          "createdDate": 1546588687827,
+          "status": "Created"
+        }
+      ],
+      "shipmentPackageStatus": "Cancelled"
+    },
+    {
+      "shipmentAddress": {
+        "id": 451319,
+        "firstName": "Kaan",
+        "lastName": "Sariveli",
+        "address1": "Address bilgisi ",
+        "address2": "",
+        "city": " İstanbul ",
+        "cityCode": 34,
+        "district": "Adalar",
+        "districtId": 33,
+        "postalCode": "10D",
+        "countryCode": "TR",
+        "fullName": "Kaan Sariveli",
+        "fullAddress": "Address bilgisi   Adalar  İstanbul "
+      },
+      "orderNumber": "218586148",
+      "totalPrice": 6,
+      "taxNumber": null,
+      "invoiceAddress": {
+        "id": 451318,
+        "firstName": "Kaan",
+        "lastName": "Sariveli",
+        "company": "",
+        "address1": "Address bilgisi ",
+        "address2": "",
+        "city": " İstanbul ",
+        "district": "Adalar",
+        "postalCode": "",
+        "countryCode": "TR",
+        "fullName": "Kaan Sariveli",
+        "fullAddress": "Address bilgisi   Adalar  İstanbul "
+      },
+      "customerFirstName": "Kaan",
+      "customerEmail": "pf+7x8bxw9d@trendyol.com.test-google-a.com",
+      "customerId": 17270024,
+      "customerLastName": "Sariveli",
+      "id": 4530387,
+      "cargoTrackingNumber": 7290250524897,
+      "cargoSenderNumber": "7290250524897",
+      "lines": [
+        {
+          "quantity": 1,
+          "productId": 49741136,
+          "salesCampaignId": 1194952,
+          "productSize": " XL",
+          "merchantSku": "asdfg",
+          "productName": "Erkek Beyaz Saat  mpQA253510810z MPQA253510810Z, XL",
+          "productCode": 14609306,
+          "merchantId": 2738,
+          "price": 6,
+          "currencyCode": "TRY",
+          "productColor": "Beyaz",
+          "id": 309679,
+          "sku": "roseQA2893677727XY53510810kod5",
+          "vatBaseAmount": 8,
+          "barcode": "roseQA2893677727XY53510810kod5",
+          "orderLineItemStatusName": "Picking"
+        }
+      ],
+      "orderDate": 1546599503328,
+      "tcIdentityNumber": "99999999999",
+      "currencyCode": "TRY",
+      "packageHistories": [
+        {
+          "createdDate": 1546588976085,
+          "status": "Created"
+        },
+        {
+          "createdDate": 1547559116954,
+          "status": "Picking"
+        }
+      ],
+      "shipmentPackageStatus": "Picking"
+    }
+  ],
+  "totalElements": 21
+}
